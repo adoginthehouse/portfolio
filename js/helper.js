@@ -15,8 +15,8 @@ $(document).ready(function() { //begin doc ready
     $('body').removeClass('locked');
   });
 
-  body, html {
-    cursor: url(cursor.gif), pointer;
-}
+ // body, html {
+    //cursor: url(cursor.gif), pointer;
+ //}
 
 }); //end doc ready
